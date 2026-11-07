@@ -1,0 +1,43 @@
+
+# Expo
+.expo/
+.claude/
+dist/
+web-build/
+expo-env.d.ts
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Temporary files
+*.log
+*.tmp
+
+# Model files and generated results
+*.pt
+*.pth
+*.h5
+*.pkl
+*.joblib
